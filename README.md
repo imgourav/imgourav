@@ -34,13 +34,13 @@
 [![GitHub imgourav](https://img.shields.io/github/followers/imgourav?label=follow&style=social)](https://github.com/imgourav)
 [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://imgourav.github.io/gourav/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=imgourav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 <a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgourav&theme=light&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/imgourav">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=imgourav&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=imgourav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </a>
 
 <div align="center">
