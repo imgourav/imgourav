@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://github.com/imgourav">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=imgourav&repo=VelocityX&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=imgourav&show_icons=true&theme=light&line_height=27" alt="Gourav's Github Stats"/>
 </a>
 
 <div align="center">
