@@ -14,7 +14,7 @@
 <a href="https://instagram.com/_gourav.shrma/">
   <img align="left" alt="Gourav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/gourav.hunterheron//">
+<a href="https://www.facebook.com/gourav.hunterheron/">
   <img align="left" alt="Gourav's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
