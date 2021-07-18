@@ -11,7 +11,7 @@
 <a href="https://t.me/gouravshrma">
   <img align="left" alt="Gourav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/_gourav.shrma/">
+<a href="https://instagram.com/eye.gourav/">
   <img align="left" alt="Gourav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/gourav.hunterheron/">
