@@ -8,7 +8,7 @@
 <a href="https://github.com/imgourav">
   <img align="left" alt="Gourav's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/gouravshrma">
+<a href="https://t.me/coderbuzz">
   <img align="left" alt="Gourav's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/eye.gourav/">
