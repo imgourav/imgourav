@@ -1,11 +1,15 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> 
-<h3 align="center">A passionate backend developer</h3>
+<p align="center">
+  🚀 Backend Developer | ⚙️ Automation Enthusiast | ⚡ Data Enthusiast | 🐘 Building Robust Backend Systems
+</p>
 
 🏦 I'm a Backend Engineer 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 - 🌱 I’m currently working on **Django, Laravel**
+- ⚙️ Love building automation systems and developer tooling
+- 💬 Ask me about backend architecture, APIs, or server deployments
 
 - 📫 How to reach me **eye.gourav@pm.me**
 
@@ -41,10 +45,11 @@
 
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> Contribution Graph:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imgourav&show_icons=true&locale=en&layout=compact" alt="imgourav" /></p>
+![Gourav's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imgourav&theme=github-compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imgourav&show_icons=true&locale=en" alt="imgourav" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imgourav&label=Profile%20views&color=0e75b6&style=flat" alt="imgourav" /> </p>
+
+<p align="center">Thanks for visiting! ⭐️</p>
